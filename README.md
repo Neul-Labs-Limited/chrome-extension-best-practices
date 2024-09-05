@@ -41,7 +41,7 @@ chrome-extension-best-practices/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/chrome-extension-best-practices.git
+   git clone https://github.com/dipankar/chrome-extension-best-practices.git
    ```
 
 2. Navigate to the project directory:
